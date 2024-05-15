@@ -1,8 +1,8 @@
 "# GolangYoung"  
-Hi there :raised_hand:
-Here are some ideas to get you started:
+--Hi there :raised_hand:
+--Here are some ideas to get you started:
 
-  :earth_asia: I’m currently studying on HNNU
+  :earth_asia: I’m currently studying on UoA
   
   :snake: I’m currently learning Golang Python
   
